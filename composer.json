@@ -1,0 +1,15 @@
+{
+    "name": "andrewslince/wp-deploy",
+    "description": "A class to sync wordpress applications with remote servers.",
+    "type": "library",
+    "require": {
+        "kevinlebrun/colors.php": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrews Lince",
+            "email": "andrews.lince@gmail.com"
+        }
+    ]
+}
